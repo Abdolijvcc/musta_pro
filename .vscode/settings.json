@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/bode/Documents/Vs_code/musta_pro/musta_pro/linux"
+    "cmake.sourceDirectory": "/home/bode/Documents/Vs_code/musta_pro/musta_pro/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
